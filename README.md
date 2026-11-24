@@ -9,7 +9,7 @@ putus-putus dan LED merah menyala sebagai peringatan bahwa aki sudah
 lemah dan starter bisa gagal.
 
 Video penjelasan (60 detik):
-link menyusul setelah upload
+https://youtube.com/shorts/zpx0LIUtU9M
 
 ## Komponen
 
